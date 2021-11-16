@@ -6,7 +6,7 @@ class Product {
         this.version = version;
         this.price = price;
         this.newField = newField;
-        this.discount = discount
+        this.discount = discount;
     }
 }
 
